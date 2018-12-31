@@ -1,0 +1,12 @@
+---
+title: Test
+author: Will Bidstrup
+date: '2018-12-31'
+slug: test
+categories:
+  - thoughts
+tags:
+  - thoughts
+---
+
+A test

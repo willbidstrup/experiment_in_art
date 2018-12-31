@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiment In Art</title>
+    <link>/</link>
+    <description>Recent content on Experiment In Art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>/post/test/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test/</guid>
+      <description>A test</description>
+    </item>
+    
+    <item>
+      <title>My Warpath</title>
+      <link>/warpath/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/warpath/</guid>
+      <description>I am on a Warpath</description>
+    </item>
+    
+    <item>
+      <title>Things</title>
+      <link>/things/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/things/</guid>
+      <description>These are some things I have made.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>TBC
+CREDITS:
+Thanks to blogdown: Creating Websites with R Markdown for explaining how to set this website up.
+Thanks to Luiz F. A. de Prá for the Coder theme and Yusiki Ishimi for extending it into the Coder-Portfolio theme.
+Thanks to Mara Averick for this post which was also very helpful in setting up GitHub + Netlify deployment.
+Front page icon by me.</description>
+    </item>
+    
+  </channel>
+</rss>
