@@ -26,7 +26,9 @@
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/warpath/</guid>
-      <description>I am on a Warpath</description>
+      <description>I am at war with the demons that lurk inside of me.
+They are crafty and patient and relentless. They change their tactics and exploit any weakness to achieve their objectives.
+Sometimes I give them names to make it easier to disassociate and gather my strength against them. Sometimes I lament their existence and turn their qualities into aspects of my art. Pain, frustration, regret, fear; these can all be used to counterpoint and accentuate joy, forgiveness and peace.</description>
     </item>
     
     <item>
@@ -44,12 +46,14 @@
       <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>TBC
+      <description>Experiment: to try something in order to discover what it is like or find out more about it.
+Art: an activity through which people express particular ideas.
+This is my blog about living life and making things.
+I also write about Data Science and Games.
+You can find me on twitter.
 CREDITS:
 Thanks to blogdown: Creating Websites with R Markdown for explaining how to set this website up.
-Thanks to Luiz F. A. de Prá for the Coder theme and Yusiki Ishimi for extending it into the Coder-Portfolio theme.
-Thanks to Mara Averick for this post which was also very helpful in setting up GitHub + Netlify deployment.
-Front page icon by me.</description>
+Thanks to Luiz F.</description>
     </item>
     
   </channel>

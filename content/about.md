@@ -3,7 +3,15 @@ title: "About"
 date: "2018-03-10"
 ---
 
-TBC 
+**Experiment:** *to try something in order to discover what it is like or find out more about it.*  
+
+**Art:** *an activity through which people express particular ideas.*  
+
+This is my blog about living life and making things.       
+
+I also write about [Data Science](https://www.datascienceexplorer.com/) and [Games](https://www.summonerofgames.com/).      
+
+You can find me on [twitter](https://twitter.com/willbidstrup).    
 
 **CREDITS:**  
 
