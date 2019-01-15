@@ -40,7 +40,9 @@ Sometimes I give them names to make it easier to disassociate and gather my stre
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/things/</guid>
-      <description>These are some things I have made.</description>
+      <description>These are some things I have made.
+Willie McRae Danger Dreams book. A collection of short stories.
+Orlac Wizard Extreme Power And Wealth album. Part one of a seven part musical epic about a wizard from the future. Also on Spotify.</description>
     </item>
     
     <item>
@@ -53,7 +55,7 @@ Sometimes I give them names to make it easier to disassociate and gather my stre
 Art: an activity through which people express particular ideas.
 This is my blog about living life and making things.
 I also write about Data Science and Games.
-You can find me on twitter.
+You can find me on Twitter.
 CREDITS:
 Thanks to blogdown: Creating Websites with R Markdown for explaining how to set this website up.
 Thanks to Luiz F.</description>

@@ -11,7 +11,7 @@ This is my blog about living life and making things.
 
 I also write about [Data Science](https://www.datascienceexplorer.com/) and [Games](https://www.summonerofgames.com/).      
 
-You can find me on [twitter](https://twitter.com/willbidstrup).    
+You can find me on [Twitter](https://twitter.com/willbidstrup).    
 
 **CREDITS:**  
 
