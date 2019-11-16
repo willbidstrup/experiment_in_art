@@ -7,9 +7,16 @@ These are some things I have made.
 
 # Willie McRae
 
-[Danger Dreams](https://store.bookbaby.com/book/danger-dreams) book. A collection of short stories.  
+[Danger Dreams](https://store.bookbaby.com/book/danger-dreams) book. A collection of short stories.   
+
+[Tales From The Edge Of Reality](https://store.cdbaby.com/cd/williemcrae3). Zombies, intergalactic truck drivers, seduction, betrayal....  
+
+[The Way It Goes](https://store.cdbaby.com/cd/williemcrae2). Acoustic song with some ghosts singing in the background.  
+
+[Gumeracha Frog](https://store.cdbaby.com/cd/williemcrae). Experimental country music about frogs, zombies and having a good time.  
+
 
 
 # Orlac Wizard
 
-[Extreme Power And Wealth](https://store.cdbaby.com/cd/orlacwizard) album. Part one of a seven part musical epic about a wizard from the future. Also on [Spotify](https://open.spotify.com/artist/4506TfaPfGFzGI32O1EKBB?si=zXSqzQt-RfCHHR4X9WVIuA).
+[Extreme Power And Wealth](https://store.cdbaby.com/cd/orlacwizard). Part one of a seven part musical epic about a wizard from the future. 
