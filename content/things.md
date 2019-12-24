@@ -7,7 +7,7 @@ These are some things I have made.
 
 # Willie McRae
 
-[Danger Dreams](https://store.bookbaby.com/book/danger-dreams) book. A collection of short stories.   
+[Danger Dreams](https://store.bookbaby.com/book/danger-dreams). A collection of short stories.   
 
 [Tales From The Edge Of Reality](https://store.cdbaby.com/cd/williemcrae3). Zombies, intergalactic truck drivers, seduction, betrayal....  
 
