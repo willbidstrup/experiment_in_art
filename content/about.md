@@ -7,11 +7,16 @@ date: "2018-03-10"
 
 **Art:** *an activity through which people express particular ideas.*  
 
-This is my blog about living life and making things.       
 
-I also write about [Data Science](https://www.datascienceexplorer.com/) and [Games](https://www.summonerofgames.com/).      
+![](images/cave_wall.jpeg)
 
-You can find me on [Twitter](https://twitter.com/willbidstrup).    
+
+
+This is my blog about living life and making things.  
+
+You can find me on [Twitter](https://twitter.com/willbidstrup).  
+
+
 
 **CREDITS:**  
 
