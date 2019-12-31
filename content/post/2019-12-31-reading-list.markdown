@@ -1,7 +1,7 @@
 ---
 title: Reading list
 author: Will Bidstrup
-date: '2020-01-01'
+date: '2019-12-31'
 slug: reading-list
 categories:
   - thoughts
