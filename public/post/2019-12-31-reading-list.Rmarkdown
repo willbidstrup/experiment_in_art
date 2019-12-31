@@ -1,0 +1,65 @@
+---
+title: Reading list
+author: Will Bidstrup
+date: '2020-01-01'
+slug: reading-list
+categories:
+  - thoughts
+  - books
+tags:
+  - thoughts
+  - books
+---
+
+I want to be a more considered and intentional reader, so I am going to record each book that I read. That is what a considered and intentional reader would do, right?  I do not include study textbooks in this list.  
+
+```{r, include = FALSE}
+library(tidyverse)
+library(knitr)
+
+```
+
+
+```{r, include = FALSE}
+# Create df
+
+reading_list <- data.frame(matrix(vector(mode = 'character',length = 6), nrow = 0, ncol = 7), stringsAsFactors = FALSE)
+
+names(reading_list) <- c("Category", "Title", "Author", "Date_start", "Date_end", "Skulls", "Notes")
+
+glimpse(reading_list)
+```
+
+
+# Summary
+
+```{r, include = FALSE}
+book_1 <- c("Non Fiction", "The Joy Of Less", "Francine Jay", "2019-12-31", "TBC", "0", "TBC")
+book_1_df <- data.frame(t(book_1), stringsAsFactors = FALSE)
+names(book_1_df) <- names(reading_list)
+```
+
+```{r, include = FALSE}
+book_2 <- c("Fiction", "Annihilation", "Jeff VanDermeer", "2019-12-31", "TBC", "0", "TBC")
+book_2_df <- data.frame(t(book_2), stringsAsFactors = FALSE)
+names(book_2_df) <- names(reading_list)
+```
+
+```{r, include = FALSE}
+reading_list <- reading_list %>%
+  bind_rows(book_1_df) %>%
+  bind_rows(book_2_df)
+```
+
+```{r,echo = FALSE}
+kable(reading_list)
+```
+
+
+# Detailed notes
+
+
+**The Joy Of Less** 
+
+**Annihilation**  
+
