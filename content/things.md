@@ -3,7 +3,7 @@ title: "Things"
 date: "2018-10-15"
 ---
 
-These are some things I have made. 
+This is my body of work.  
 
 # Willie McRae
 
