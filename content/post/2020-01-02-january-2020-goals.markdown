@@ -1,7 +1,7 @@
 ---
 title: January 2020 goals
 author: Will Bidstrup
-date: '2020-01-02'
+date: '2020-01-01'
 slug: january-2020-goals
 categories:
   - thoughts
