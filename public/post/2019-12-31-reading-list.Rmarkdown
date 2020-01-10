@@ -47,7 +47,7 @@ names(book_1_df) <- names(reading_list)
 ```
 
 ```{r, include = FALSE}
-book_2 <- c("Fiction", "Annihilation", "Jeff VanDermeer", "2019-12-31", "TBC", "0", "TBC")
+book_2 <- c("Fiction", "Annihilation", "Jeff VanDermeer", "2019-12-31", "2020-01-10", "8", "Nice and short, tight, scary, thought-provoking")
 book_2_df <- data.frame(t(book_2), stringsAsFactors = FALSE)
 names(book_2_df) <- names(reading_list)
 ```
