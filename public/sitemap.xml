@@ -33,13 +33,13 @@
   </url>
   
   <url>
-    <loc>/categories/books/</loc>
+    <loc>/tags/books/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/books/</loc>
+    <loc>/categories/books/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -75,14 +75,14 @@
   </url>
   
   <url>
-    <loc>/categories/thoughts/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>/tags/thoughts/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/thoughts/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+    <loc>/categories/thoughts/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

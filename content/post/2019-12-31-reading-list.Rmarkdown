@@ -35,28 +35,43 @@ glimpse(reading_list)
 
 
 ```{r, include = FALSE}
-book_0 <- c("Non Fiction", "The Tao Is Silent", "Raymond M. Smullyan", "2019-11-01", "TBC", "0", "TBC")
+book_0 <- c("Non Fiction", "The Tao Is Silent", "Raymond M. Smullyan", "2019-11-01", "TBC", "0", "")
 book_0_df <- data.frame(t(book_0), stringsAsFactors = FALSE)
 names(book_0_df) <- names(reading_list)
 ```
 
 ```{r, include = FALSE}
-book_1 <- c("Non Fiction", "The Joy Of Less", "Francine Jay", "2019-12-31", "TBC", "0", "TBC")
+book_1 <- c("Non Fiction", "The Joy Of Less", "Francine Jay", "2019-12-31", "TBC", "0", "")
 book_1_df <- data.frame(t(book_1), stringsAsFactors = FALSE)
 names(book_1_df) <- names(reading_list)
 ```
 
 ```{r, include = FALSE}
-book_2 <- c("Fiction", "Annihilation", "Jeff VanDermeer", "2019-12-31", "2020-01-10", "8", "Nice and short, tight, scary, thought-provoking")
+book_2 <- c("Fiction", "Annihilation", "Jeff VanDermeer", "2019-12-31", "2020-01-10", "4", "Nice and short, tight, scary, thought-provoking")
 book_2_df <- data.frame(t(book_2), stringsAsFactors = FALSE)
 names(book_2_df) <- names(reading_list)
 ```
 
 ```{r, include = FALSE}
+book_3 <- c("Non Fiction", "The War Of Art", "Steven Pressfield", "2020-01-10", "2010-01-13", "5", "One of the best books I have read")
+book_3_df <- data.frame(t(book_3), stringsAsFactors = FALSE)
+names(book_3_df) <- names(reading_list)
+```
+
+```{r, include = FALSE}
+book_4 <- c("Non Fiction", "Malcolm Young: The Man Who Made ACDC", "Jeff Apter", "2019-12-15", "TBC", "0", "")
+book_4_df <- data.frame(t(book_4), stringsAsFactors = FALSE)
+names(book_4_df) <- names(reading_list)
+```
+
+
+```{r, include = FALSE}
 reading_list <- reading_list %>%
   bind_rows(book_0_df) %>%
   bind_rows(book_1_df) %>%
-  bind_rows(book_2_df)
+  bind_rows(book_2_df) %>% 
+  bind_rows(book_3_df) %>% 
+  bind_rows(book_4_df)
 ```
 
 ```{r,echo = FALSE}
