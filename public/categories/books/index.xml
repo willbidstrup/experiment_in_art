@@ -17,8 +17,8 @@
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/reading-list/</guid>
-      <description> I want to be a more considered and intentional reader, so I am going to record each book that I read. That is what a considered and intentional reader would do, right? I do not include study textbooks in this list.
-Summary    Category Title Author Date_start Date_end Skulls Notes     Non Fiction The Tao Is Silent Raymond M. Smullyan 2019-11-01 TBC 0    Non Fiction The Joy Of Less Francine Jay 2019-12-31 TBC 0    Fiction Annihilation Jeff VanDermeer 2019-12-31 2020-01-10 4 Nice and short, tight, scary, thought-provoking   Non Fiction The War Of Art Steven Pressfield 2020-01-10 2010-01-13 5 One of the best books I have read   Non Fiction Malcolm Young: The Man Who Made ACDC Jeff Apter 2019-12-15 TBC 0     </description>
+      <description>I want to be a more considered and intentional reader, so I am going to record each book that I read. That is what a considered and intentional reader would do, right? I do not include study textbooks in this list.
+Summary book_0 &amp;lt;- c(&amp;#34;Non Fiction&amp;#34;, &amp;#34;The Tao Is Silent&amp;#34;, &amp;#34;Raymond M. Smullyan&amp;#34;, &amp;#34;2019-11-01&amp;#34;, &amp;#34;TBC&amp;#34;, &amp;#34;0&amp;#34;, &amp;#34;&amp;#34;) book_0_df &amp;lt;- data.frame(t(book_0), stringsAsFactors = FALSE) names(book_0_df) &amp;lt;- names(reading_list) book_1 &amp;lt;- c(&amp;#34;Non Fiction&amp;#34;, &amp;#34;The Joy Of Less&amp;#34;, &amp;#34;Francine Jay&amp;#34;, &amp;#34;2019-12-31&amp;#34;, &amp;#34;TBC&amp;#34;, &amp;#34;0&amp;#34;, &amp;#34;&amp;#34;) book_1_df &amp;lt;- data.</description>
     </item>
     
   </channel>
