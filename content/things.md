@@ -3,7 +3,8 @@ title: "Things"
 date: "2018-10-15"
 ---
 
-# Stories
+# Words
+
 
 ### Willie McRae
 
@@ -12,7 +13,7 @@ Morning Vultures
 Cold Black Magic  
 From Alcatraz To Charon  
 The Grim Tale Of Mr Lightfoot  
-The Omega Automatic Searmasters Cosmic  
+The Omega Automatic Seamasters Cosmic  
 Nereyda  
 Red Highway  
 The Stick And The Trick  
@@ -24,7 +25,7 @@ Rocky Butterfly Dances On The Moon
 
 
 
-# Songs
+# Music
 
 ### Willie McRae
 
@@ -54,15 +55,7 @@ Seven Magic Potions
 Funky And Dangerous  
 Return To Orlac Tower  
 
-### Co-writes (coming soon)  
 
-DSV 
-
-High Stakes  
-
-The Torrens  
-
-Willie and Candy  
 
 
 
