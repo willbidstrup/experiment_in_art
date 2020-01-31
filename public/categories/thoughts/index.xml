@@ -6,32 +6,10 @@
     <description>Recent content in Thoughts on Experiment In Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>January 2020 goals</title>
-      <link>/post/january-2020-goals/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/january-2020-goals/</guid>
-      <description>Write and submit one short story
-Solve all 101 problems in &amp;lsquo;Basic Probability&amp;rsquo; section of &amp;lsquo;Schaum&amp;rsquo;s Outlines: Probability and Statistics&amp;rsquo;
-Complete up to lesson 233 in Typing Club &amp;lsquo;Typing Jungle&amp;rsquo; course
-Complete 16 workouts</description>
-    </item>
-    
-    <item>
-      <title>Reading list</title>
-      <link>/post/reading-list/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/reading-list/</guid>
-      <description>I want to be a more considered and intentional reader, so I am going to record each book that I read. That is what a considered and intentional reader would do, right? I do not include study textbooks in this list.
-Summary book_0 &amp;lt;- c(&amp;#34;Non Fiction&amp;#34;, &amp;#34;The Tao Is Silent&amp;#34;, &amp;#34;Raymond M. Smullyan&amp;#34;, &amp;#34;2019-11-01&amp;#34;, &amp;#34;TBC&amp;#34;, &amp;#34;0&amp;#34;, &amp;#34;&amp;#34;) book_0_df &amp;lt;- data.frame(t(book_0), stringsAsFactors = FALSE) names(book_0_df) &amp;lt;- names(reading_list) book_1 &amp;lt;- c(&amp;#34;Non Fiction&amp;#34;, &amp;#34;The Joy Of Less&amp;#34;, &amp;#34;Francine Jay&amp;#34;, &amp;#34;2019-12-31&amp;#34;, &amp;#34;TBC&amp;#34;, &amp;#34;0&amp;#34;, &amp;#34;&amp;#34;) book_1_df &amp;lt;- data.</description>
-    </item>
     
     <item>
       <title>My daily writing habit</title>

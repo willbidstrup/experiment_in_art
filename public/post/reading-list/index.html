@@ -88,7 +88,39 @@
 <p>I want to be a more considered and intentional reader, so I am going to record each book that I read. That is what a considered and intentional reader would do, right?  I do not include study textbooks in this list.</p>
 
 <h1 id="summary">Summary</h1>
+<div class="highlight"><pre class="chroma"><code class="language-r" data-lang="r">book_0 <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;Non Fiction&#34;</span><span class="p">,</span> <span class="s">&#34;The Tao Is Silent&#34;</span><span class="p">,</span> <span class="s">&#34;Raymond M. Smullyan&#34;</span><span class="p">,</span> <span class="s">&#34;2019-11-01&#34;</span><span class="p">,</span> <span class="s">&#34;TBC&#34;</span><span class="p">,</span> <span class="s">&#34;0&#34;</span><span class="p">,</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+book_0_df <span class="o">&lt;-</span> <span class="kt">data.frame</span><span class="p">(</span><span class="kp">t</span><span class="p">(</span>book_0<span class="p">),</span> stringsAsFactors <span class="o">=</span> <span class="kc">FALSE</span><span class="p">)</span>
+<span class="kp">names</span><span class="p">(</span>book_0_df<span class="p">)</span> <span class="o">&lt;-</span> <span class="kp">names</span><span class="p">(</span>reading_list<span class="p">)</span>
 
+
+book_1 <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;Non Fiction&#34;</span><span class="p">,</span> <span class="s">&#34;The Joy Of Less&#34;</span><span class="p">,</span> <span class="s">&#34;Francine Jay&#34;</span><span class="p">,</span> <span class="s">&#34;2019-12-31&#34;</span><span class="p">,</span> <span class="s">&#34;TBC&#34;</span><span class="p">,</span> <span class="s">&#34;0&#34;</span><span class="p">,</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+book_1_df <span class="o">&lt;-</span> <span class="kt">data.frame</span><span class="p">(</span><span class="kp">t</span><span class="p">(</span>book_1<span class="p">),</span> stringsAsFactors <span class="o">=</span> <span class="kc">FALSE</span><span class="p">)</span>
+<span class="kp">names</span><span class="p">(</span>book_1_df<span class="p">)</span> <span class="o">&lt;-</span> <span class="kp">names</span><span class="p">(</span>reading_list<span class="p">)</span>
+
+
+book_2 <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;Fiction&#34;</span><span class="p">,</span> <span class="s">&#34;Annihilation&#34;</span><span class="p">,</span> <span class="s">&#34;Jeff VanDermeer&#34;</span><span class="p">,</span> <span class="s">&#34;2019-12-31&#34;</span><span class="p">,</span> <span class="s">&#34;2020-01-10&#34;</span><span class="p">,</span> <span class="s">&#34;4&#34;</span><span class="p">,</span> <span class="s">&#34;Nice and short, tight, scary, thought-provoking&#34;</span><span class="p">)</span>
+book_2_df <span class="o">&lt;-</span> <span class="kt">data.frame</span><span class="p">(</span><span class="kp">t</span><span class="p">(</span>book_2<span class="p">),</span> stringsAsFactors <span class="o">=</span> <span class="kc">FALSE</span><span class="p">)</span>
+<span class="kp">names</span><span class="p">(</span>book_2_df<span class="p">)</span> <span class="o">&lt;-</span> <span class="kp">names</span><span class="p">(</span>reading_list<span class="p">)</span>
+
+
+book_3 <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;Non Fiction&#34;</span><span class="p">,</span> <span class="s">&#34;The War Of Art&#34;</span><span class="p">,</span> <span class="s">&#34;Steven Pressfield&#34;</span><span class="p">,</span> <span class="s">&#34;2020-01-10&#34;</span><span class="p">,</span> <span class="s">&#34;2010-01-13&#34;</span><span class="p">,</span> <span class="s">&#34;5&#34;</span><span class="p">,</span> <span class="s">&#34;One of the best books I have read&#34;</span><span class="p">)</span>
+book_3_df <span class="o">&lt;-</span> <span class="kt">data.frame</span><span class="p">(</span><span class="kp">t</span><span class="p">(</span>book_3<span class="p">),</span> stringsAsFactors <span class="o">=</span> <span class="kc">FALSE</span><span class="p">)</span>
+<span class="kp">names</span><span class="p">(</span>book_3_df<span class="p">)</span> <span class="o">&lt;-</span> <span class="kp">names</span><span class="p">(</span>reading_list<span class="p">)</span>
+
+
+book_4 <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;Non Fiction&#34;</span><span class="p">,</span> <span class="s">&#34;Malcolm Young: The Man Who Made ACDC&#34;</span><span class="p">,</span> <span class="s">&#34;Jeff Apter&#34;</span><span class="p">,</span> <span class="s">&#34;2019-12-15&#34;</span><span class="p">,</span> <span class="s">&#34;TBC&#34;</span><span class="p">,</span> <span class="s">&#34;0&#34;</span><span class="p">,</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+book_4_df <span class="o">&lt;-</span> <span class="kt">data.frame</span><span class="p">(</span><span class="kp">t</span><span class="p">(</span>book_4<span class="p">),</span> stringsAsFactors <span class="o">=</span> <span class="kc">FALSE</span><span class="p">)</span>
+<span class="kp">names</span><span class="p">(</span>book_4_df<span class="p">)</span> <span class="o">&lt;-</span> <span class="kp">names</span><span class="p">(</span>reading_list<span class="p">)</span>
+
+
+book_5 <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;Fiction&#34;</span><span class="p">,</span> <span class="s">&#34;Identity Crisis&#34;</span><span class="p">,</span> <span class="s">&#34;Ben Elton&#34;</span><span class="p">,</span> <span class="s">&#34;2020-01-17&#34;</span><span class="p">,</span> <span class="s">&#34;TBC&#34;</span><span class="p">,</span> <span class="s">&#34;0&#34;</span><span class="p">,</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+book_5_df <span class="o">&lt;-</span> <span class="kt">data.frame</span><span class="p">(</span><span class="kp">t</span><span class="p">(</span>book_5<span class="p">),</span> stringsAsFactors <span class="o">=</span> <span class="kc">FALSE</span><span class="p">)</span>
+<span class="kp">names</span><span class="p">(</span>book_5_df<span class="p">)</span> <span class="o">&lt;-</span> <span class="kp">names</span><span class="p">(</span>reading_list<span class="p">)</span>
+
+
+book_6 <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;Non Fiction&#34;</span><span class="p">,</span> <span class="s">&#34;Do Dice Play God&#34;</span><span class="p">,</span> <span class="s">&#34;Ian Stewart&#34;</span><span class="p">,</span> <span class="s">&#34;2020-01-18&#34;</span><span class="p">,</span> <span class="s">&#34;TBC&#34;</span><span class="p">,</span> <span class="s">&#34;0&#34;</span><span class="p">,</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+book_6_df <span class="o">&lt;-</span> <span class="kt">data.frame</span><span class="p">(</span><span class="kp">t</span><span class="p">(</span>book_6<span class="p">),</span> stringsAsFactors <span class="o">=</span> <span class="kc">FALSE</span><span class="p">)</span>
+<span class="kp">names</span><span class="p">(</span>book_6_df<span class="p">)</span> <span class="o">&lt;-</span> <span class="kp">names</span><span class="p">(</span>reading_list<span class="p">)</span></code></pre></div>
 <table>
 <thead>
 <tr>
@@ -105,9 +137,39 @@
 <tbody>
 <tr>
 <td align="left">Non Fiction</td>
+<td align="left">The War Of Art</td>
+<td align="left">Steven Pressfield</td>
+<td align="left">2020-01-10</td>
+<td align="left">2010-01-13</td>
+<td align="left">5</td>
+<td align="left">One of the best books I have read</td>
+</tr>
+
+<tr>
+<td align="left">Fiction</td>
+<td align="left">Annihilation</td>
+<td align="left">Jeff VanDermeer</td>
+<td align="left">2019-12-31</td>
+<td align="left">2020-01-10</td>
+<td align="left">4</td>
+<td align="left">Nice and short, tight, scary, thought-provoking</td>
+</tr>
+
+<tr>
+<td align="left">Non Fiction</td>
 <td align="left">The Tao Is Silent</td>
 <td align="left">Raymond M. Smullyan</td>
 <td align="left">2019-11-01</td>
+<td align="left">TBC</td>
+<td align="left">0</td>
+<td align="left"></td>
+</tr>
+
+<tr>
+<td align="left">Non Fiction</td>
+<td align="left">Malcolm Young: The Man Who Made ACDC</td>
+<td align="left">Jeff Apter</td>
+<td align="left">2019-12-15</td>
 <td align="left">TBC</td>
 <td align="left">0</td>
 <td align="left"></td>
@@ -125,29 +187,19 @@
 
 <tr>
 <td align="left">Fiction</td>
-<td align="left">Annihilation</td>
-<td align="left">Jeff VanDermeer</td>
-<td align="left">2019-12-31</td>
-<td align="left">2020-01-10</td>
-<td align="left">4</td>
-<td align="left">Nice and short, tight, scary, thought-provoking</td>
+<td align="left">Identity Crisis</td>
+<td align="left">Ben Elton</td>
+<td align="left">2020-01-17</td>
+<td align="left">TBC</td>
+<td align="left">0</td>
+<td align="left"></td>
 </tr>
 
 <tr>
 <td align="left">Non Fiction</td>
-<td align="left">The War Of Art</td>
-<td align="left">Steven Pressfield</td>
-<td align="left">2020-01-10</td>
-<td align="left">2010-01-13</td>
-<td align="left">5</td>
-<td align="left">One of the best books I have read</td>
-</tr>
-
-<tr>
-<td align="left">Non Fiction</td>
-<td align="left">Malcolm Young: The Man Who Made ACDC</td>
-<td align="left">Jeff Apter</td>
-<td align="left">2019-12-15</td>
+<td align="left">Do Dice Play God</td>
+<td align="left">Ian Stewart</td>
+<td align="left">2020-01-18</td>
 <td align="left">TBC</td>
 <td align="left">0</td>
 <td align="left"></td>
