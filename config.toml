@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "Experiment In Art" # Author's name.
-    info = "Today I am... a prehistoric dinosaur-bird" # Author's job title or info.
+    info = "Today I am... doing what must be done" # Author's job title or info.
     description = "" # Site description.
     keywords = "blog,personal" # Site keywords.
     avatarurl = "images/eia_small.png" # Contain the path of the optionnal avatar in the static folder.
