@@ -3,6 +3,11 @@ title: "Things"
 date: "2018-10-15"
 ---
 
+Over the years I have built a small body of work.  
+
+It is my quest in life to defeat my demons of distraction and negativity and become more prolific and generous.   
+
+
 # Words
 
 

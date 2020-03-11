@@ -10,11 +10,9 @@ date: "2018-03-10"
 
 ![](images/cave_wall.jpeg)
 
+Hello, I'm Will Bidstrup, welcome to my blog about living life and making things.  
 
-
-This is my blog about living life and making things.  
-
-You can find me on [Twitter](https://twitter.com/willbidstrup).  
+You can find me on [Twitter](https://twitter.com/willbidstrup) and [Medium](https://medium.com/@willbidstrup).
 
 
 

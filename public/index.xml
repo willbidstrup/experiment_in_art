@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>My daily writing habit</title>
-      <link>/post/my-daily-writing-habit/</link>
+      <title>How I Deliver My Daily Words</title>
+      <link>/post/how-i-deliver-my-daily-words/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-daily-writing-habit/</guid>
+      <guid>/post/how-i-deliver-my-daily-words/</guid>
       <description>“Words are to writers as clay is to sculptors.”
 ― (Old Jungle Saying)
  Each morning I wrestle with my computer for exactly ten minutes and crank out some sentences. I have learned that I can deliver around 500 words in this timeframe. This is seemingly the maximum output my brain and two-finger clawhammer typing technique can muster. For now.
@@ -40,7 +40,9 @@ Sometimes I give them names to make it easier to disassociate and gather my stre
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/things/</guid>
-      <description>Words Willie McRae Danger Dreams
+      <description>Over the years I have built a small body of work.
+It is my quest in life to defeat my demons of distraction and negativity and become more prolific and generous.
+Words Willie McRae Danger Dreams
 Morning Vultures
 Cold Black Magic
 From Alcatraz To Charon
@@ -51,15 +53,7 @@ Red Highway
 The Stick And The Trick
 The Walk
 Pomodori Galactic
-Marmalade And Rhymes
-Uncle Reuben&amp;rsquo;s Farmhouse
-Rocky Butterfly Dances On The Moon
-Music Willie McRae Gumeracha Frog
-Gumeracha Frog
-Farmer Zombie
-Day By Day
-Tales From The Edge Of Reality
-Jungle Law</description>
+Marmalade And Rhymes</description>
     </item>
     
     <item>
@@ -70,11 +64,11 @@ Jungle Law</description>
       <guid>/about/</guid>
       <description>Experiment: to try something in order to discover what it is like or find out more about it.
 Art: an activity through which people express particular ideas.
-This is my blog about living life and making things.
-You can find me on Twitter.
+Hello, I&amp;rsquo;m Will Bidstrup, welcome to my blog about living life and making things.
+You can find me on Twitter and Medium.
 CREDITS:
 Thanks to blogdown: Creating Websites with R Markdown for explaining how to set this website up.
-Thanks to Luiz F. A. de Prá for the Coder theme and Yusiki Ishimi for extending it into the Coder-Portfolio theme.</description>
+Thanks to Luiz F. A.</description>
     </item>
     
   </channel>

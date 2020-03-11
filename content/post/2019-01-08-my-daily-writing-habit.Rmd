@@ -1,8 +1,8 @@
 ---
-title: My daily writing habit
+title: How I Deliver My Daily Words
 author: Will Bidstrup
 date: '2019-01-08'
-slug: my-daily-writing-habit
+slug: how-i-deliver-my-daily-words
 categories:
   - thoughts
 tags:
