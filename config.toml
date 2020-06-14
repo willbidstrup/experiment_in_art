@@ -15,8 +15,8 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "" # Author's name.
-    info = "" # Author's job title or info.
-    description = "" # Site description.
+    info = "Experiment In Art" # Author's job title or info.
+    description = "Blog by Will Bidstrup about art and science" # Site description.
     keywords = "blog,personal" # Site keywords.
     avatarurl = "images/eia_small.png" # Contain the path of the optionnal avatar in the static folder.
 
@@ -56,3 +56,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     name = "Things"
     weight = 2
     url = "/things/"
+[[menu.main]]
+    name = "Tags"
+    weight = 4
+    url = "/tags/"

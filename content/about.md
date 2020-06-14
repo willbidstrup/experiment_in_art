@@ -12,7 +12,7 @@ date: "2018-03-10"
 
 Hello, I'm Will Bidstrup, welcome to my blog about living life and making things.  
 
-You can find me on [Twitter](https://twitter.com/willbidstrup) and [Medium](https://medium.com/@willbidstrup).
+You can also find me on [Twitter](https://twitter.com/willbidstrup).
 
 
 

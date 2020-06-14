@@ -6,7 +6,7 @@ slug: how-i-deliver-my-daily-words
 categories:
   - thoughts
 tags:
-  - thoughts
+  - writing
 ---
 
 >“Words are to writers as clay is to sculptors.”  
