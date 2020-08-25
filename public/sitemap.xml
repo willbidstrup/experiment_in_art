@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/3-first-steps-for-better-integrated-analytics./</loc>
+    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-thinking-like-a-games-developer-can-take-data-transformation-to-the-next-level/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/5-things-data-science-teams-can-learn-from-creative-teams/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/how-i-deliver-my-daily-words/</loc>
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
   </url>
@@ -28,19 +43,26 @@
   </url>
   
   <url>
+    <loc>/tags/data/</loc>
+    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

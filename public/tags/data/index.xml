@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Experiment In Art</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Experiment In Art</description>
+    <title>Data on Experiment In Art</title>
+    <link>/tags/data/</link>
+    <description>Recent content in Data on Experiment In Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -40,18 +40,6 @@ In Asia, we have the most gaming-savvy population in the world. We were raised o
       
       <guid>/post/5-things-data-science-teams-can-learn-from-creative-teams/</guid>
       <description>Many data science teams struggle to solve problems that have not been well defined. They are often left to their own devices to sift through information until they strike gold, or else are subject to an ever-evolving string of ‘requirements’ which generally focus on what and how, ignoring why and for who. Additionally, they may struggle to set up, structure and ultimately sell their solution to an audience of mixed experience.</description>
-    </item>
-    
-    <item>
-      <title>How I Deliver My Daily Words</title>
-      <link>/post/how-i-deliver-my-daily-words/</link>
-      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-i-deliver-my-daily-words/</guid>
-      <description>“Words are to writers as clay is to sculptors.”
-― (Old Jungle Saying)
- Each morning I wrestle with my computer for exactly ten minutes and crank out some sentences. I have learned that I can deliver around 500 words in this timeframe. This is seemingly the maximum output my brain and two-finger clawhammer typing technique can muster. For now.
-I have been writing for many years in a sporadic fashion including publishing a few short stories and more than a few songs.</description>
     </item>
     
   </channel>
