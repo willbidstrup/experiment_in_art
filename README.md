@@ -1,12 +1,7 @@
-# Experiment In Art
+# Thanos JS (demo site)
 
+Silly demo site to be used for [Netlify Drop](https://app.netlify.com/drop).
 
-I use the Udacity git commit message style guide;  
+Preview demo site [right here](https://www.thanosjs.org).
 
-feat: a new feature  
-fix: a bug fix  
-docs: changes to documentation  
-style: formatting, missing semi colons, etc; no code change  
-refactor: refactoring production code  
-test: adding tests, refactoring test; no production code change  
-chore: updating build tasks, package manager configs, etc; no production code change  
+Thanks to [Rasmus Andersson](https://twitter.com/rsms) for creating [Inter UI font](https://rsms.me/inter/).
