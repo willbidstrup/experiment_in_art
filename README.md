@@ -1,7 +1,16 @@
-# Thanos JS (demo site)
+# Experiment In Art
 
-Silly demo site to be used for [Netlify Drop](https://app.netlify.com/drop).
+## What this is
 
-Preview demo site [right here](https://www.thanosjs.org).
+My exploration journal. An exercise in code, design, writing, publishing.  
 
-Thanks to [Rasmus Andersson](https://twitter.com/rsms) for creating [Inter UI font](https://rsms.me/inter/).
+A place to try new things, to fail and succeed.  
+
+## Git naming conventions
+feat: a new feature  
+fix: a bug fix  
+docs: changes to documentation  
+style: formatting, missing semi colons, etc; no code change  
+refactor: refactoring production code  
+test: adding tests, refactoring test; no production code change  
+chore: updating build tasks, package manager configs, etc; no production code change  
