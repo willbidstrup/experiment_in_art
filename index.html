@@ -4,8 +4,28 @@
 
 <style>
 
-.smaller-image {
+body {
+  background-color: black;
+  color: white;
+}
+
+#title-text {
+  color: white
+}
+
+p {
+  color: white;
+}
+
+.black-border {
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+
+#cassowary-image-element {
   width: 300px;
+  border-radius: 50%;
 }
 
 </style>
@@ -19,7 +39,7 @@
 
 <body>
 
-<h1> Experiment In Art </h2>
+<h1 id="title-text"> Experiment In Art </h2>
 
   <p><strong>Experiment:</strong> <em>to try something in order to discover what it is like or find out more about it.</em></p>
 
@@ -28,7 +48,7 @@
 
 <main>
 
-  <img class="smaller-image" src="assets/eia_small.png" alt=" ">
+  <img id="cassowary-image-element" class="black-border" src="assets/eia_small.png" alt=" ">
 
   <p> This is a <a href="testpage.html">link to a test page.</a>
   </p>
@@ -41,6 +61,7 @@
   It is where I store my Body Of Work and thinking on various topics: </p>
 
   <ul>
+    <li>Data</li>
     <li>Game Design</li>
     <li>Writing</li>
     <li>Music</li>
