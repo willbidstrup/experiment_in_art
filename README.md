@@ -1,10 +1,11 @@
 # Experiment In Art
 
 ## What this is
-
-My exploration journal. An exercise in code, design, writing, publishing.  
-
+An exercise in code, design, writing, publishing.  
 A place to try new things, to fail and succeed.  
+
+## Design philosophy
+Courtesy of the [Motherfucking Website](https://motherfuckingwebsite.com/)  
 
 ## Git naming conventions
 feat: a new feature  
