@@ -21,13 +21,68 @@ h3 {
   text-transform: uppercase;
 }
 
-.item1{background:LightSkyBlue;}
- .item2{background:LightSalmon;}
- .item3{background:PaleTurquoise;}
- .item4{background:LightPink;}
+
+#title-bar  {
+  background:LightSkyBlue;
+  grid-area: title-bar;
+}
+
+
+ .item2 {
+   background:LightSalmon;
+   grid-area: content2;
+ }
+
+ .item3 {
+   background:LightSalmon;
+   grid-area: content3;
+ }
+
+ .item4 {
+   background:LightSalmon;
+   grid-area: content4;
+ }
 
  .item5 {
+   background:LightSalmon;
+   grid-area: content5;
+ }
+
+
+ #logo-area {
+   grid-area; logo-image;
+ }
+
+
+ #logo-image {
+   max-width:100%;
+   max-height:100%;
+ }
+
+
+  .item6 {
+    background:LightSalmon;
+    grid-area: content6;
+  }
+
+  .item7 {
+    background:LightSalmon;
+    grid-area: content7;
+  }
+
+  .item8 {
+    background:LightSalmon;
+    grid-area: content8;
+  }
+
+  .item9 {
+    background:LightSalmon;
+    grid-area: content9;
+  }
+
+ #footer-bar {
    background: PaleGreen;
+   grid-area: footer;
  }
 
  .container {
@@ -37,10 +92,12 @@ h3 {
    background: LightGray;
    display: grid;
    grid-template-columns: 1fr 1fr 1fr;
-   grid-template-rows: 1fr 1fr 1fr 1fr;
+   grid-template-rows: .5fr 1fr 1fr 1fr .25fr;
    grid-gap: 10px;
    grid-template-areas:
-     "header header header"
-     "advert content content"
+     "title-bar title-bar title-bar"
+     "content2 content3 content4"
+     "content5 logo-area content6"
+     "content7 content8 content9"
      "footer footer footer";
  }
