@@ -12,26 +12,27 @@ h3 {
   font-family: questa-grande, serif;
   font-style: normal;
   font-weight: 500;
+  font-size: 80px;
 }
 
 /* The container and all elements within */
 
  .container {
    font-size: 40px;
-   min-height: 300px;
+   height: 100%;
    width: 100%;
-   background: LightGray;
+   background: white;
    display: grid;
    grid-template-columns: 1fr 1fr 1fr;
-   grid-template-rows: .25fr .1fr .3fr 1fr 1fr .25fr;
+   grid-template-rows: .05fr .1fr .3fr 1fr .25fr .1fr;
    grid-gap: 10px;
    grid-template-areas:
      "title-bar title-bar title-bar"
      "nav-bar nav-bar nav-bar"
-     "content5 content3 content6"
+     "content3 content3 content3"
      "content2 logo-area content4"
      "content7 content8 content9"
-     "footer footer footer";
+     "footer-bar footer-bar footer-bar";
  }
 
 
@@ -56,13 +57,13 @@ h3 {
   background: white;
   grid-area: nav-bar;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  align-items: start;
+  justify-content: space-around;
 }
 
 .nav-button {
-  background: black;
-  color: white;
+  background: white;
+  color: black;
 }
 
 
@@ -79,48 +80,57 @@ h3 {
 
 
  #footer-bar {
-   background: PaleGreen;
-   grid-area: footer;
+   background: white;
+   grid-area: footer-bar;
+   display: flex;
+   align-items: center;
+   justify-content: center;
  }
 
 
 
  .item2 {
-   background:LightSalmon;
+   background:white;
    grid-area: content2;
+   border-color: black;
+  border-width: 4px;
  }
 
  .item3 {
    background:white;
    grid-area: content3;
+   color: grey;
+
  }
 
  .item4 {
-   background:LightSalmon;
+   background:white;
    grid-area: content4;
+   border-color: black;
+   border-width: 4px;
  }
 
  .item5 {
-   background:LightSalmon;
+   background:white;
    grid-area: content5;
  }
 
   .item6 {
-    background:LightSalmon;
+    background:white;
     grid-area: content6;
   }
 
   .item7 {
-    background:LightSalmon;
+    background:white;
     grid-area: content7;
   }
 
   .item8 {
-    background:LightSalmon;
+    background:white;
     grid-area: content8;
   }
 
   .item9 {
-    background:LightSalmon;
+    background:white;
     grid-area: content9;
   }
