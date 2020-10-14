@@ -12,13 +12,19 @@ h3 {
   font-family: questa-grande, serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 80px;
+  font-size: 50px;
+}
+
+h4 {
+  font-family: questa-grande, serif;
+  font-style: normal;
+  font-weight: 300;
+
 }
 
 /* The container and all elements within */
 
  .container {
-   font-size: 40px;
    height: 100%;
    width: 100%;
    background: white;
