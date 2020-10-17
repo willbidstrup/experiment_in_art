@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: black;
 }
 
 p {
@@ -19,12 +19,16 @@ h4 {
   font-family: questa-grande, serif;
   font-style: normal;
   font-weight: 300;
+}
 
+a {
+  color: white;
 }
 
 /* The container and all elements within */
 
  .container {
+  padding: 0px 0px 0px 0px;
    height: 100%;
    width: 100%;
    background: white;
@@ -35,9 +39,9 @@ h4 {
    grid-template-areas:
      "title-bar title-bar title-bar"
      "nav-bar nav-bar nav-bar"
-     "content3 content3 content3"
-     "content2 logo-area content4"
-     "content7 content8 content9"
+     "rotating-quotes rotating-quotes rotating-quotes"
+     "content1 logo-area content2"
+     "content3 content4 content5"
      "footer-bar footer-bar footer-bar";
  }
 
@@ -60,18 +64,12 @@ h4 {
 
 
 #nav-bar {
-  background: white;
+  background: black;
   grid-area: nav-bar;
   display: flex;
   align-items: start;
   justify-content: space-around;
 }
-
-.nav-button {
-  background: white;
-  color: black;
-}
-
 
 
 #logo-area {
@@ -82,61 +80,65 @@ h4 {
 #logo-image {
   max-width:100%;
   max-height:100%;
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
 }
 
 
  #footer-bar {
-   background: white;
+   background: black;
+   color: white;
    grid-area: footer-bar;
    display: flex;
    align-items: center;
    justify-content: center;
  }
 
-
-
- .item2 {
-   background:white;
-   grid-area: content2;
-   border-color: black;
-  border-width: 4px;
+ .nav-button {
+   background: black;
+   color: white;
  }
 
- .item3 {
+
+ .item1 {
    background:white;
-   grid-area: content3;
+   padding-left: 2em;
+   grid-area: content1;
+   border-style: dotted;
+   border-color: black;
+   border-width: 0px;
+ }
+
+ .rotating-quotes {
+   background:white;
+   grid-area: rotating-quotes;
    color: grey;
 
  }
 
- .item4 {
+ .item2 {
    background:white;
-   grid-area: content4;
+   text-align: right;
+   padding-right: 2em;
+   grid-area: content2;
+   border-style: dotted;
    border-color: black;
-   border-width: 4px;
+   border-width: 0px;
  }
 
- .item5 {
-   background:white;
-   grid-area: content5;
- }
-
-  .item6 {
-    background:white;
-    grid-area: content6;
-  }
 
   .item7 {
     background:white;
-    grid-area: content7;
+    grid-area: content3;
   }
 
   .item8 {
     background:white;
-    grid-area: content8;
+    grid-area: content4;
   }
 
   .item9 {
     background:white;
-    grid-area: content9;
+    grid-area: content5;
   }
