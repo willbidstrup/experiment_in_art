@@ -91,6 +91,7 @@ a {
    color: white;
    grid-area: footer-bar;
    display: flex;
+   flex-direction: column;
    align-items: center;
    justify-content: center;
  }
@@ -115,12 +116,14 @@ background: black;
    border-style: dotted;
    border-color: black;
    border-width: 0px;
+   font-size: 18px;
  }
 
  .rotating-quotes {
    background:white;
    grid-area: rotating-quotes;
    color: grey;
+   font-size: 24px;
 
  }
 
@@ -132,6 +135,8 @@ background: black;
    border-style: dotted;
    border-color: black;
    border-width: 0px;
+   text-align: center;
+   font-size: 0px;
  }
 
 
