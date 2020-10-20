@@ -27,7 +27,7 @@ a {
 
 /* The container and all elements within */
 
- .container {
+ .container-home {
   padding: 0px 0px 0px 0px;
    height: 100%;
    width: 100%;
@@ -154,3 +154,37 @@ background: black;
     background:white;
     grid-area: content5;
   }
+
+
+   .container-journal {
+    padding: 0px 0px 0px 0px;
+     height: 100%;
+     width: 100%;
+     background: white;
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     grid-template-rows: .05fr .1fr .3fr 1fr .25fr .1fr;
+     grid-gap: 10px;
+     grid-template-areas:
+       "title-bar title-bar title-bar"
+       "nav-bar nav-bar nav-bar"
+       "sub-title sub-title free-space"
+       "journal1 journal1 free-space"
+       "journal1 journal1 free-space"
+       "footer-bar footer-bar footer-bar";
+   }
+
+.sub-title {
+  background: grey;
+  grid-area: sub-title;
+}
+
+.journal1 {
+  background: yellow;
+  grid-area: journal1;
+}
+
+.free-space {
+  background: red;
+  grid-area: free-space;
+}
