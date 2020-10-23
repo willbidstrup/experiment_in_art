@@ -45,6 +45,14 @@ a {
      "footer-bar footer-bar footer-bar";
  }
 
+ @keyframes rotation {
+   from {
+     transform: rotate(359deg);
+   }
+   to {
+     transform: rotate(0deg);
+   }
+ }
 
  #title-bar  {
    background:white;
@@ -74,6 +82,7 @@ a {
 
 #logo-area {
   grid-area; logo-image;
+  animation: rotation 600s infinite linear;
 }
 
 
@@ -168,9 +177,9 @@ background: black;
      grid-template-areas:
        "title-bar title-bar title-bar"
        "nav-bar nav-bar nav-bar"
-       "sub-title sub-title free-space"
-       "journal1 journal1 free-space"
-       "journal1 journal1 free-space"
+       "rotating-quotes rotating-quotes rotating-quotes"
+       "journal1 journal1 journal1"
+       "journal1 journal1 journal1"
        "footer-bar footer-bar footer-bar";
    }
 
@@ -180,8 +189,9 @@ background: black;
 }
 
 .journal1 {
-  background: yellow;
   grid-area: journal1;
+  font-size: 20px;
+  text-align: center;
 }
 
 .free-space {
