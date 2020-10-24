@@ -233,3 +233,57 @@ background: black;
   color: grey;
   font-family: monospace;
 }
+
+
+.container-collection {
+ padding: 0px 0px 0px 0px;
+  height: 100%;
+  width: 100%;
+  background: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: .05fr .1fr 1fr 1fr .1fr;
+  grid-gap: 10px;
+  grid-template-areas:
+    "title-bar title-bar title-bar"
+    "nav-bar nav-bar nav-bar"
+    "content1 content2 content3"
+    "content4 content5 content6"
+    "footer-bar footer-bar footer-bar";
+}
+
+.content1 {
+  grid-area: content1;
+  background: black;
+  color: white;
+}
+
+.content2 {
+  grid-area: content2;
+  background: white;
+  color: black;
+}
+
+.content3 {
+  grid-area: content3;
+  background: black;
+  color: white;
+}
+
+.content4 {
+  grid-area: content4;
+  background: white;
+  color: black;
+}
+
+.content5 {
+  grid-area: content5;
+  background: black;
+  color: white;
+}
+
+.content6 {
+  grid-area: content6;
+  background: white;
+  color: black;
+}
