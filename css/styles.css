@@ -183,10 +183,7 @@ background: black;
        "footer-bar footer-bar footer-bar";
    }
 
-.sub-title {
-  background: grey;
-  grid-area: sub-title;
-}
+
 
 .journal1 {
   grid-area: journal1;
@@ -212,7 +209,7 @@ background: black;
   grid-template-areas:
     "title-bar title-bar title-bar"
     "nav-bar nav-bar nav-bar"
-    "rotating-quotes rotating-quotes rotating-quotes"
+    "journal-title journal-title journal-title"
     "journal-entry journal-entry  journal-entry "
     "journal-entry  journal-entry  journal-entry "
     "footer-bar footer-bar footer-bar";
@@ -221,6 +218,12 @@ background: black;
 .journal-entry {
   grid-area: journal-entry;
   font-size: 20px;
+  text-align: left;
+  padding-left: 30px;
+}
+
+.journal-title {
+  grid-area: journal-title;
   text-align: left;
   padding-left: 30px;
 }
