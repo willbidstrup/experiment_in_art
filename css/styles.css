@@ -82,7 +82,7 @@ a {
 
 #logo-area {
   grid-area; logo-image;
-  animation: rotation 600s infinite linear;
+
 }
 
 
@@ -92,6 +92,7 @@ a {
   border-radius: 50%;
   border-color: black;
   border-style: solid;
+  animation: rotation 600s infinite linear;
 }
 
 
@@ -256,7 +257,7 @@ background: black;
 
 .content1 {
   grid-area: content1;
-  background: black;
+  background: white;
   color: white;
   padding-top: 30px;
   font-size: 30px;
@@ -272,7 +273,7 @@ background: black;
 
 .content3 {
   grid-area: content3;
-  background: black;
+  background: white;
   color: white;
   padding-top: 30px;
   font-size: 30px;
@@ -288,7 +289,7 @@ background: black;
 
 .content5 {
   grid-area: content5;
-  background: black;
+  background: white;
   color: white;
   padding-top: 30px;
   font-size: 30px;
