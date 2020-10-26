@@ -189,6 +189,7 @@ background: black;
   grid-area: journal1;
   font-size: 20px;
   text-align: center;
+  color: black;
 }
 
 .free-space {
@@ -250,40 +251,53 @@ background: black;
     "content1 content2 content3"
     "content4 content5 content6"
     "footer-bar footer-bar footer-bar";
+  text-align: center;
 }
 
 .content1 {
   grid-area: content1;
   background: black;
   color: white;
+  padding-top: 30px;
+  font-size: 30px;
 }
 
 .content2 {
   grid-area: content2;
   background: white;
   color: black;
+  padding-top: 30px;
+  font-size: 30px;
 }
 
 .content3 {
   grid-area: content3;
   background: black;
   color: white;
+  padding-top: 30px;
+  font-size: 30px;
 }
 
 .content4 {
   grid-area: content4;
   background: white;
   color: black;
+  padding-top: 30px;
+  font-size: 30px;
 }
 
 .content5 {
   grid-area: content5;
   background: black;
   color: white;
+  padding-top: 30px;
+  font-size: 30px;
 }
 
 .content6 {
   grid-area: content6;
   background: white;
   color: black;
+  padding-top: 30px;
+  font-size: 30px;
 }
