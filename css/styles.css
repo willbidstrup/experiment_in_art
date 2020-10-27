@@ -139,14 +139,14 @@ background: black;
 
  .item2 {
    background:white;
-   text-align: right;
+   text-align: center;
    padding-right: 2em;
    grid-area: content2;
    border-style: dotted;
    border-color: black;
    border-width: 0px;
-   text-align: center;
    font-size: 0px;
+
  }
 
 
